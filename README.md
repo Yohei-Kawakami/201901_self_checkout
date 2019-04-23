@@ -31,3 +31,5 @@ DIVE INTO CODE 1月期生 合同課題<br>
 中間発表: 4/12(金) 13:00~<br>
 納品: 4/14(日) 16:00~<br>
 <br>
+
+![image](https://user-images.githubusercontent.com/46381328/56557777-529e7080-65d7-11e9-8874-cce7d247711a.png)
