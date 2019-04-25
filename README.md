@@ -9,8 +9,7 @@ https://qiita.com/komiya-m/items/af30a055b5d81310f6e7<br>
 https://qiita.com/noritsugu_yamada/items/2e049cd7a8fd77eee0f5<br>
 <br>
 <br>
-
-2019/4/8(Mon)~4/14(Sun)<br>
+2019/4/8(Mon)-4/14(Sun)<br>
 DIVE INTO CODE 1月期生 合同課題<br>
 メンバー(敬称略)：江種、川上、小宮、佐々木、山田(50音順)<br>
 <br>
