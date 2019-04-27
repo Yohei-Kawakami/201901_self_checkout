@@ -1,11 +1,11 @@
 # splint29~31 商品判別システムのグループ開発(自動レジ)
-### [合同課題]自動判別レジの作成
+## [合同課題]自動判別レジの作成
 https://github.com/Yohei-Kawakami/project_sigma<br>
 <br>
-### [openCV]背景差分で物体検出をしてみた[Raspberry Pi]
+## [openCV]背景差分で物体検出をしてみた[Raspberry Pi]
 https://qiita.com/komiya-m/items/af30a055b5d81310f6e7<br>
 <br>
-### [Keras]MobileNetV2+ArcFaceを使ってペットボトルを分類してみた!
+## [Keras]MobileNetV2+ArcFaceを使ってペットボトルを分類してみた!
 https://qiita.com/noritsugu_yamada/items/2e049cd7a8fd77eee0f5<br>
 <br>
 <br>
